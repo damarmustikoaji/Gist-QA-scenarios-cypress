@@ -11,6 +11,8 @@ npm install
 ```
 Or install cypress desktop https://docs.cypress.io/guides/getting-started/installing-cypress.html
 
+Open this project on cypress desktop, and then click the integration test
+
 ## Setup Env
 
 Copy cypress.json.example to cypress.json
