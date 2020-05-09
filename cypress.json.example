@@ -1,0 +1,9 @@
+{
+    "projectId": null,
+    "env": {
+        "base_url": "https://github.com",
+        "gits_url": "https://gist.github.com",
+        "username": null,
+        "password": null
+    }
+  }

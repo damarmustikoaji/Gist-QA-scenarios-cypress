@@ -1,0 +1,25 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "gist qa scenarios using cypress",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^4.5.0"
+  },
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:damarmustikoaji/Gist-QA-scenarios-cypress.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "damar mustiko aji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damarmustikoaji/Gist-QA-scenarios-cypress/issues"
+  },
+  "homepage": "https://github.com/damarmustikoaji/Gist-QA-scenarios-cypress#readme"
+}
