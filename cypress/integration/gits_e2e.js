@@ -12,7 +12,7 @@ context('Gist QA scenarios', () => {
 
   // https://on.cypress.io/interacting-with-elements
 
-  it('.type() - type into a DOM element', () => {
+  it('E2E - Create, Edit, Delete, and see List', () => {
     // https://on.cypress.io/type
     cy.visit(Cypress.env('gits_url'))
     // create
